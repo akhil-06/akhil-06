@@ -14,6 +14,10 @@
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Cricket, Tennis and the Piano! ⚽🎾🎹
   
+  <h1>Wants To Connect 😎</h1>
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-Akhil Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-sh06///)](https://www.linkedin.com/in/akhil-sh06/)  [![Gmail Badge](https://img.shields.io/badge/-1008@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1008svam@gmail.com)](mailto:1008svam@gmail.com)
+  
 <hr>
 <Br>
 
