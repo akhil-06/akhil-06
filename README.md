@@ -20,7 +20,4 @@
   <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-06&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Akhil Sharma's Github Stats">
 </p>
-  
-  <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=akhil.06" alt="visitor badge"/>
-</p>
+
